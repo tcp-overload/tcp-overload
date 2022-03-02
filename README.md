@@ -1,0 +1,4 @@
+- I’m @tcp-overload
+- 👀 I’m interested in ALL things networking and coding
+- 🌱 I’m currently learning Python3, PHP, IPTABLES, and C
+- 📫 You can reach me via Discord, synful#1624.
